@@ -1,0 +1,9 @@
+const action ={
+    ADD_TO_CART: 'ADD_TO_CART',
+    REMOVE_FROM_CART: 'REMOVE_FROM_CART',
+    INCREASE_ITEM: 'INCREASE_ITEM',
+    DECREASE_ITEM:'DECREASE_ITEM',
+    EMPTY_CART:'EMPTY_CART',
+}
+
+export default action;
